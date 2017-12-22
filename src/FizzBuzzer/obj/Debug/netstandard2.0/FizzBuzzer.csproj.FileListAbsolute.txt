@@ -1,8 +1,0 @@
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/bin/Debug/netstandard2.0/FizzBuzzer.deps.json
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/bin/Debug/netstandard2.0/FizzBuzzer.dll
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/bin/Debug/netstandard2.0/FizzBuzzer.pdb
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/obj/Debug/netstandard2.0/FizzBuzzer.csproj.CoreCompileInputs.cache
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/obj/Debug/netstandard2.0/FizzBuzzer.AssemblyInfoInputs.cache
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/obj/Debug/netstandard2.0/FizzBuzzer.AssemblyInfo.cs
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/obj/Debug/netstandard2.0/FizzBuzzer.dll
-/home/dez/Documents/github/fizzbuzz/src/FizzBuzzer/obj/Debug/netstandard2.0/FizzBuzzer.pdb
