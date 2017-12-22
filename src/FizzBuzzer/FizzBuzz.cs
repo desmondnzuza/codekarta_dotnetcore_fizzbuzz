@@ -14,7 +14,7 @@ namespace FizzBuzzer
                 sb.Append("Fizz");
             if(number.IsDivisibleBy(5))
                 sb.Append("Buzz");
-            if(sb.Length == 0)
+            if(sb.IsNew())
                 sb.Append(number);
 
             return sb.ToString();
