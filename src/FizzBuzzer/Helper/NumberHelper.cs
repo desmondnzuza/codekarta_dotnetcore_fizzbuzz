@@ -1,5 +1,3 @@
-using System;
-
 namespace FizzBuzzer.Helper
 {
     public static class NumberHelper    

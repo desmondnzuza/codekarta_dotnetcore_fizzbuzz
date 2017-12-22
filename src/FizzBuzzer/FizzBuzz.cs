@@ -1,5 +1,4 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 using FizzBuzzer.Helper;
 
 namespace FizzBuzzer
@@ -8,16 +7,24 @@ namespace FizzBuzzer
     {
         public string Execute(int number)
         {
-            var sb = new StringBuilder();
-            
-            if(number.IsDivisibleBy(3))
-                sb.Append("Fizz");
-            if(number.IsDivisibleBy(5))
-                sb.Append("Buzz");
-            if(sb.IsNew())
-                sb.Append(number);
+            var result = new StringBuilder();
 
-            return sb.ToString();
+            if (number.IsDivisibleBy(3))
+            {
+                result.Append("Fizz");
+            }
+
+            if (number.IsDivisibleBy(5))
+            {
+                result.Append("Buzz");
+            }
+
+            if (result.IsNew())
+            {
+                result.Append(number);
+            }
+
+            return result.ToString();
         }
     }
 }
