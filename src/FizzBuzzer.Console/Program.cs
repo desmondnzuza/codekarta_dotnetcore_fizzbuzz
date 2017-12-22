@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace FizzBuzzer.Console
+﻿namespace FizzBuzzer.Console
 {
     class Program
     {
